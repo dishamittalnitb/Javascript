@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    padding:0;
+    background-color:black;
+}
+.bg-black{
+    height:100%;
+    color:white;
+}
